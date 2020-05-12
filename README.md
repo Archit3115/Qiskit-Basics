@@ -1,2 +1,2 @@
 # Qiskit-Basics
-This is a project which includes basic python codes related to Quantum Computing using Qiskit and IBM Experience.
+This is a project was intended to build a Quantum Program to simulate the result and plot the same as a graph of a Classical Machine and also on a Quantum Machine of IBM.
