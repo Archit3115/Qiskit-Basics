@@ -71,7 +71,7 @@ pip install pylatexenc
 # In[10]:
 
 
-circuit.draw(output='mpl')
+circuit.draw()
 
 
 # In[11]:
